@@ -205,7 +205,7 @@ export default function Contact() {
                           name="phone"
                           type="tel"
                           autoComplete="tel"
-                          placeholder="+91 98765 43210"
+                          placeholder="+91 97466 83778"
                           className={inputClasses}
                         />
                       </Field>

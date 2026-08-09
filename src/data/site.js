@@ -37,11 +37,11 @@ export const navLinks = [
 ];
 
 export const contact = {
-  email: "hello@emprime.in",
-  sales: "+91 98765 43210",
-  support: "+91 98765 43211",
-  whatsapp: "+919876543210",
-  address: "2nd Floor, Athulya Building, Infopark Road, Kakkanad, Kochi 682030",
+  email: "info.emprime@gmail.com",
+  sales: "+91 97466 83778",
+  support: "+91 97466 83778",
+  whatsapp: "+919746683778",
+  address: "Matha Business Center, Amrita Hospital, Amrita Nagar, Edappally, Kochi, Ernakulam, Kerala 682041",
   hours: "Mon – Sat · 9:30 AM to 6:30 PM IST",
   // Replace with your own Formspree form ID to start receiving submissions.
   formEndpoint: "https://formspree.io/f/your-form-id",
@@ -51,7 +51,7 @@ export const socials = [
   { label: "LinkedIn", href: "https://linkedin.com" },
   { label: "Instagram", href: "https://instagram.com" },
   { label: "Dribbble", href: "https://dribbble.com" },
-  { label: "GitHub", href: "https://github.com" },
+  // { label: "GitHub", href: "https://github.com" },
 ];
 
 export const heroWords = ["websites", "mobile apps", "POS systems", "ERP platforms"];
